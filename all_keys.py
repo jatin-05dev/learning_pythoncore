@@ -12,17 +12,17 @@ print(total_key)
 print(len(total_key))
  
 
-# from  keyword import  kwlist
-# from  keyword import  softkwlist
-# print(softkwlist)
-# print(kwlist)
+from  keyword import  kwlist
+from  keyword import  softkwlist
+print(softkwlist)
+print(kwlist)
 
 
 
-# print(keyword.kwlist)
-# print(keyword.softkwlist)
+print(keyword.kwlist)
+print(keyword.softkwlist)
 
-# print(kwlist)
+print(kwlist)
 
 
 
