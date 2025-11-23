@@ -74,8 +74,7 @@ for i in range(1,n+1):
         print(x,end=",")
         x=x+2
     print()
-1.,2,3
-4,5,67,
+ 
 
 # patrern 
 n=int(input("enyter a number : "))
