@@ -1,4 +1,4 @@
-# if statement 
+    # if statement 
 # n=int(input("enter any number"))
 # if n>0:
     # print(f'given number {n} is positive')
