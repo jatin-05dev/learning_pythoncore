@@ -113,6 +113,18 @@ print(t.index(30))
 for x in t:
     print(x)
 
+
+
+
+
+
+
+
+
+
+
+
+
 # 6️⃣ Unpacking
 t = (1, 2, 3)
 a, b, c = t
@@ -156,3 +168,23 @@ t = (1, 2, 3)
 print(t[::-1])
 
 print("END")
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
